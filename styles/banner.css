@@ -17,4 +17,5 @@
 
 .banner-pesquisa{
     background-color: transparent;
+    border: 1px solid var(--branco);
 }
